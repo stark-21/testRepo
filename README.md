@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-on my way to get a free t-shirt. All thanks to Danish.
+on my way to get a free t-shirt. All thanks to Danish,Rushi,Purva,Sushant,Devyani.
 </body>
 </html>
